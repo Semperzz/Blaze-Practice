@@ -1,2 +1,4 @@
 # Blaze-Practice
-Practice fighting blazes :o
+Blaze Practice map made by Semperzz
+
+Practice fighting blazes to your hearts content :o
